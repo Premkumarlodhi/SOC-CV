@@ -13,6 +13,7 @@ Files: opencv soc code.zip, soc midterm 2025.pdf
 
 2. Deep Learning & Image Classification
 Sushi-Pizza-Steak Classifier: A multi-class image classification model trained to identify food items. Includes a Jupyter Notebook with the training pipeline.
+
 if pizza steak sushi classifier doesnt open then here is the link to my google colab
 https://colab.research.google.com/drive/1gCcqa94_pAzVe8B5LLJYC5MvRJzptUul#scrollTo=yZZlJWkZfGt-
 
